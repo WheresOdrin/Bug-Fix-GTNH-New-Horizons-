@@ -8,6 +8,7 @@ The player will then not be able to see or use any of their coins inside the gui
 
 
 #Here is the original file located in my instance.
+
 {
   "Members": [
     "3ac4fac8-ef47-4c0d-b374-96f17a291206"
