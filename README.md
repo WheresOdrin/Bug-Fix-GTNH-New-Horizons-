@@ -244,10 +244,7 @@ The player will then not be able to see or use any of their coins inside the gui
 
 
 
-Here is the file that should have be implemented in when transfering over files to a new instance
-
-
-
+#Here is the file that should have be implemented in when transfering over files to a new instance
 
 {
   "Members": [
