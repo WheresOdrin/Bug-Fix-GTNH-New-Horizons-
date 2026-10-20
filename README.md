@@ -1,11 +1,13 @@
 # Bug-Fix-GTNH-New-Horizons-
-When updating GTNH from instance 2.9-1 to 2.9-2. Coins were able to be put into a team wallet and personal wallet, in a singleplayer world coins located in a team wallet instead of personal wallet do not get transfered over correctly, as the team wallet button is no longer accessible in singleplayer worlds as of the 2.9-2 update.
+#When updating GTNH from instance 2.9-1 to 2.9-2. Coins were able to be put into a team wallet and personal wallet, in a singleplayer world coins located in a team wallet instead of personal wallet do not get transfered over correctly, as the team wallet button is no longer accessible in singleplayer worlds as of the 2.9-2 update.
 The player will then not be able to see or use any of their coins inside the gui of the vending machine. This only affects players that update their game on daily builds of the modpack and not full releases.
-Removed the Team coin file, as it should not be included when loading a singleplayer world
-Adding coins via commands in game where not showing up, and trying to disband a team is not allowed in singleplayer
+
+#Removed the Team coin file, as it should not be included when loading a singleplayer world
+
+#Other Testing. Adding coins via commands in game were not showing up, and trying to disband a team is not allowed in singleplayer to force coins to move to personal wallet
 
 
-Here is the original file located in my instance.
+#Here is the original file located in my instance.
 {
   "Members": [
     "3ac4fac8-ef47-4c0d-b374-96f17a291206"
